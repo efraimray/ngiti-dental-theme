@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://efraimray.github.io/ngiti-dental-theme/demo/sitemap.xml

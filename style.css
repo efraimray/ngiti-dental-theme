@@ -1,0 +1,18 @@
+/*
+Theme Name:        Ngiti Dental
+Theme URI:         https://github.com/EfraimRay/ngiti-dental-theme
+Author:            Efraim Ray
+Author URI:        https://www.efraimray.com/
+Description:       A classic WordPress theme for dental clinics and other professional practices: services and team as custom post types, a working appointment request form (nonce, honeypot, wp_mail), clinic details and hours in the Customizer, a live "open now" badge, a tooth-chart service finder, Dentist JSON-LD, light and dark mode, and a one-click sample content importer. No page builder, no jQuery.
+Version:           1.0.0
+Requires at least: 6.3
+Tested up to:      6.5
+Requires PHP:      7.4
+License:           GNU General Public License v2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:       ngiti-dental-theme
+Domain Path:       /languages
+Tags:              one-column, custom-logo, custom-menu, featured-images, theme-options, translation-ready, accessibility-ready, block-styles, wide-blocks, editor-style
+*/
+
+/* The real styles live in assets/css/main.css (enqueued in functions.php). */

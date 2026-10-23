@@ -1,0 +1,169 @@
+{
+  "_note": "Sample content for the Ngiti Dental theme. Every name, credential, price and testimonial-free text here is fictional and marked as sample. Used by the WordPress sample-content importer (inc/sample-content.php) and by tools/build-demo.py for the static demo.",
+  "clinic": {
+    "name": "Ngiti Dental Studio",
+    "tagline": "Gentle family dentistry",
+    "phone": "0917 555 0142",
+    "messenger": "https://m.me/your-clinic-page",
+    "email": "hello@ngitidental.example",
+    "address": "2/F Lantawan Building, Fortich Street, Poblacion",
+    "city": "Malaybalay City, Bukidnon 8700",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Fortich+Street+Malaybalay+City+Bukidnon",
+    "hours_weekdays": "09:00-12:00,13:00-17:00",
+    "hours_saturday": "09:00-13:00",
+    "hours_sunday": "",
+    "facebook": "#",
+    "instagram": "#"
+  },
+  "services": [
+    {
+      "slug": "checkup-cleaning",
+      "title": "Check-up & Cleaning",
+      "icon": "sparkle",
+      "duration": "45 min",
+      "price_from": "800",
+      "teeth": ["all"],
+      "excerpt": "An unhurried exam, scaling and polishing, plus a plain-language report on what your teeth need next.",
+      "content": "Your visit starts with a full check of teeth, gums and bite. We remove plaque and tartar (oral prophylaxis), polish, and show you what we found on the tooth chart. Recommended every six months."
+    },
+    {
+      "slug": "tooth-colored-fillings",
+      "title": "Tooth-colored Fillings",
+      "icon": "tooth",
+      "duration": "30–60 min",
+      "price_from": "1200",
+      "teeth": ["incisor", "canine", "premolar", "molar"],
+      "excerpt": "Composite fillings matched to your natural shade, for cavities, chips and worn edges.",
+      "content": "We remove the decay, then rebuild the tooth with a composite resin matched to your shade and harden it with a curing light. Most fillings take one visit."
+    },
+    {
+      "slug": "tooth-extraction",
+      "title": "Tooth Extraction",
+      "icon": "pliers",
+      "duration": "30–60 min",
+      "price_from": "1000",
+      "teeth": ["molar", "wisdom", "premolar"],
+      "excerpt": "Simple and surgical extractions, including impacted wisdom teeth, with clear aftercare.",
+      "content": "When a tooth cannot be saved, we remove it gently under local anesthesia and give you written aftercare instructions. Wisdom teeth are assessed with an X-ray first."
+    },
+    {
+      "slug": "root-canal-treatment",
+      "title": "Root Canal Treatment",
+      "icon": "root",
+      "duration": "60–90 min per visit",
+      "price_from": "6000",
+      "teeth": ["molar", "premolar", "canine", "incisor"],
+      "excerpt": "Save an infected or badly decayed tooth instead of pulling it.",
+      "content": "We clean and seal the canals inside the tooth to stop infection and pain. Back teeth usually need a crown afterwards. Price depends on the number of canals."
+    },
+    {
+      "slug": "braces-orthodontics",
+      "title": "Braces & Orthodontics",
+      "icon": "braces",
+      "duration": "45 min consult",
+      "price_from": "45000",
+      "teeth": ["incisor", "canine", "premolar"],
+      "excerpt": "Metal and ceramic braces for teens and adults, with a written treatment plan and monthly adjustments.",
+      "content": "Your first visit includes photos, an assessment of your bite and a written plan with the estimated length of treatment and a payment schedule."
+    },
+    {
+      "slug": "teeth-whitening",
+      "title": "Teeth Whitening",
+      "icon": "sun",
+      "duration": "90 min",
+      "price_from": "8000",
+      "teeth": ["incisor", "canine"],
+      "excerpt": "In-clinic whitening after a check-up, so we know your teeth and gums are ready.",
+      "content": "We protect your gums, apply a professional whitening gel in cycles, and give you tips to keep the result. Not recommended during pregnancy."
+    },
+    {
+      "slug": "crowns-dentures",
+      "title": "Crowns & Dentures",
+      "icon": "crown",
+      "duration": "2–3 visits",
+      "price_from": "5000",
+      "teeth": ["molar", "premolar", "incisor", "canine"],
+      "excerpt": "Crowns, bridges and partial or full dentures to bring back a comfortable bite.",
+      "content": "We take impressions, choose a shade with you and fit the final crown or denture after a try-in. Adjustments in the first month are included."
+    },
+    {
+      "slug": "kids-dentistry",
+      "title": "Kids' Dentistry",
+      "icon": "smile",
+      "duration": "30 min",
+      "price_from": "700",
+      "teeth": ["all"],
+      "excerpt": "First visits, fluoride, sealants and gentle care for children from age one.",
+      "content": "We keep children's visits short and friendly, explain every step with a mirror and a counting game, and teach parents simple brushing routines."
+    }
+  ],
+  "team": [
+    {
+      "slug": "dr-celina-amarillo",
+      "name": "Dr. Celina Amarillo",
+      "role": "Lead Dentist & Founder",
+      "initials": "CA",
+      "color": "#0a6b66",
+      "credentials": "Doctor of Dental Medicine (sample credential)",
+      "bio": "Focuses on family dentistry and nervous first-time patients. Explains every step before she starts."
+    },
+    {
+      "slug": "dr-rafael-dumagpi",
+      "name": "Dr. Rafael Dumagpi",
+      "role": "Orthodontics",
+      "initials": "RD",
+      "color": "#7a4b9c",
+      "credentials": "Doctor of Dental Medicine, orthodontics training (sample credential)",
+      "bio": "Handles braces and bite correction for teens and adults, with monthly progress photos."
+    },
+    {
+      "slug": "dr-mayumi-sabanal",
+      "name": "Dr. Mayumi Sabanal",
+      "role": "Pediatric Dentistry",
+      "initials": "MS",
+      "color": "#b5562f",
+      "credentials": "Doctor of Dental Medicine, pediatric dentistry training (sample credential)",
+      "bio": "Sees children from age one and keeps visits short, calm and fun."
+    },
+    {
+      "slug": "lorna-quinones",
+      "name": "Lorna Quiñones",
+      "role": "Dental Assistant & Front Desk",
+      "initials": "LQ",
+      "color": "#2f6f9f",
+      "credentials": "Clinic coordinator (sample)",
+      "bio": "Confirms appointments, answers Messenger questions and keeps the sterilization log."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you accept walk-in patients?",
+      "a": "Yes, when a dentist is free, but appointments are seen first. Send an appointment request or call us to get a confirmed time."
+    },
+    {
+      "q": "How do I pay for my treatment?",
+      "a": "We accept cash, bank transfer and e-wallet payments. Bigger treatments such as braces can be paid in monthly installments based on your written plan."
+    },
+    {
+      "q": "Do you accept HMO cards?",
+      "a": "This is sample text: HMO acceptance depends on the clinic's accreditation. Please message us with your HMO provider before your visit and we will check your coverage."
+    },
+    {
+      "q": "What should I bring to my first visit?",
+      "a": "Bring a valid ID, a list of medicines you take, and any old X-rays. Arrive ten minutes early to fill in the patient information sheet."
+    },
+    {
+      "q": "I am scared of the dentist. Can you help?",
+      "a": "Yes. Tell us when you book. We explain each step first, agree on a stop signal, and can split treatment into shorter visits."
+    },
+    {
+      "q": "At what age should my child first see a dentist?",
+      "a": "Around their first birthday or when the first tooth appears. Early visits are short and help children get comfortable."
+    }
+  ],
+  "pages": {
+    "about": "<p>Ngiti Dental Studio is a small family clinic in Malaybalay City. <em>Ngiti</em> means smile, and our goal is simple: make every visit calm, clear and comfortable, from a child's first check-up to a grandparent's new dentures.</p><h2>How we work</h2><ul><li><strong>We explain before we treat.</strong> You see your tooth chart, the options and the cost before any work starts.</li><li><strong>We keep it clean.</strong> Instruments are sterilized and logged after every patient.</li><li><strong>We respect your time.</strong> Appointments start on time, and we send a reminder the day before.</li></ul><p class=\"sample-note\">Sample clinic story: replace with the real clinic's history.</p>",
+    "privacy": "<p>This privacy notice explains how Ngiti Dental Studio collects and uses personal information, in line with the <strong>Data Privacy Act of 2012 (Republic Act No. 10173)</strong> and the rules of the National Privacy Commission.</p><h2>What we collect</h2><p>When you send an appointment request or a message, we collect your name, mobile number, optional email address, preferred service, preferred date and time, and anything you write in the message box. We do not ask for medical records through the website.</p><h2>Why we collect it</h2><p>We use this information only to respond to your request, confirm or reschedule your appointment, and keep a record of the request.</p><h2>How long we keep it</h2><p>Appointment requests are kept for up to one year, then deleted, unless they become part of your patient record at the clinic.</p><h2>Who can see it</h2><p>Only clinic staff who handle appointments. We do not sell or share your information with advertisers. This website does not use tracking cookies.</p><h2>Your rights</h2><p>You may ask to see, correct or delete your personal information, or withdraw your consent, by contacting our Data Protection Officer at the clinic's email address.</p><p class=\"sample-note\">Sample notice: have it reviewed for the real clinic before going live.</p>",
+    "disclaimer": "<p>The information on this website is for general education only and is <strong>not medical or dental advice</strong>. It does not replace an examination by a licensed dentist.</p><p>Prices shown are sample starting prices. Your actual treatment plan and cost are confirmed only after a check-up.</p><p>Sending an appointment request does not create a dentist–patient relationship and does not guarantee a slot until the clinic confirms it.</p><p>If you have severe pain, swelling of the face or uncontrolled bleeding, go to the nearest hospital emergency room.</p><p class=\"sample-note\">Sample disclaimer: review it for the real clinic.</p>"
+  }
+}

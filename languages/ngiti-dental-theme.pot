@@ -1,0 +1,1016 @@
+# Copyright (C) 2026 Efraim Ray
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ngiti Dental 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/EfraimRay/ngiti-dental-theme/issues\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-23T12:24:13+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: ngiti-dental-theme\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Ngiti Dental"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://github.com/EfraimRay/ngiti-dental-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "A classic WordPress theme for dental clinics and other professional practices: services and team as custom post types, a working appointment request form (nonce, honeypot, wp_mail), clinic details and hours in the Customizer, a live \"open now\" badge, a tooth-chart service finder, Dentist JSON-LD, light and dark mode, and a one-click sample content importer. No page builder, no jQuery."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Efraim Ray"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.efraimray.com/"
+msgstr ""
+
+#: 404.php:13
+msgid "This page has gone missing, like a baby tooth."
+msgstr ""
+
+#: 404.php:14
+msgid "The link may be old or mistyped. These pages can help:"
+msgstr ""
+
+#: 404.php:16
+msgid "Go to the home page"
+msgstr ""
+
+#. Template Name of the theme
+#: 404.php:17
+#: front-page.php:47
+#: inc/post-types.php:22
+#: inc/post-types.php:26
+#: inc/sample-content.php:213
+#: inc/template-tags.php:260
+msgid "Services"
+msgstr ""
+
+#. Template Name of the theme
+#: 404.php:18
+#: inc/sample-content.php:213
+#: inc/template-tags.php:263
+msgid "Contact"
+msgstr ""
+
+#: footer.php:17
+msgid "Gentle, on-time dental care for families. We explain every step and every peso before we start."
+msgstr ""
+
+#: footer.php:19
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:20
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:24
+#: front-page.php:100
+#: inc/template-tags.php:154
+#: inc/template-tags.php:177
+msgid "Clinic hours"
+msgstr ""
+
+#: footer.php:32
+msgid "Visit or call"
+msgstr ""
+
+#: footer.php:35
+#: front-page.php:95
+#: page-templates/template-contact.php:17
+msgid "Open in Google Maps"
+msgstr ""
+
+#: footer.php:41
+msgid "Patients"
+msgstr ""
+
+#: footer.php:53
+#: front-page.php:25
+#: template-parts/cta-band.php:17
+msgid "Request an appointment"
+msgstr ""
+
+#. Template Name of the theme
+#: footer.php:53
+#: inc/sample-content.php:23
+msgid "Patient FAQ"
+msgstr ""
+
+#: footer.php:53
+msgid "Privacy notice"
+msgstr ""
+
+#. Template Name of the theme
+#: footer.php:53
+#: inc/sample-content.php:26
+msgid "Disclaimer"
+msgstr ""
+
+#: footer.php:62
+msgid "Website content is general information, not dental advice."
+msgstr ""
+
+#: footer.php:63
+msgid "Theme by"
+msgstr ""
+
+#: footer.php:67
+msgid "Quick contact"
+msgstr ""
+
+#: footer.php:68
+#: page-templates/template-contact.php:19
+msgid "Messenger"
+msgstr ""
+
+#. translators: %s: town name
+#: front-page.php:18
+#, php-format
+msgid "Family dental clinic · %s"
+msgstr ""
+
+#: front-page.php:21
+msgid "Gentle dentistry for every <em>ngiti</em> in the family."
+msgstr ""
+
+#: front-page.php:22
+msgid "Check-ups, fillings, braces and kids' care, explained in plain words before we start. Appointments that begin on time."
+msgstr ""
+
+#: front-page.php:29
+msgid "Costs explained first"
+msgstr ""
+
+#: front-page.php:30
+msgid "Kids from age one"
+msgstr ""
+
+#: front-page.php:31
+msgid "Sterilized, logged instruments"
+msgstr ""
+
+#: front-page.php:37
+msgid "Tooth 16 · upper right first molar"
+msgstr ""
+
+#: front-page.php:38
+msgid "Sample chart note: filling done, check again in 6 months"
+msgstr ""
+
+#: front-page.php:48
+msgid "Care for every stage, from first tooth to dentures"
+msgstr ""
+
+#: front-page.php:49
+msgid "Starting prices are shown up front. Your exact plan and cost are confirmed after a check-up."
+msgstr ""
+
+#: front-page.php:49
+#: page-templates/template-services.php:16
+msgid "Sample prices"
+msgstr ""
+
+#: front-page.php:58
+msgid "See all services and the tooth finder"
+msgstr ""
+
+#: front-page.php:65
+msgid "Your visit"
+msgstr ""
+
+#: front-page.php:66
+#: page-templates/template-about.php:29
+msgid "How booking works"
+msgstr ""
+
+#: front-page.php:75
+msgid "Our team"
+msgstr ""
+
+#: front-page.php:76
+msgid "Dentists who explain before they treat"
+msgstr ""
+
+#: front-page.php:77
+msgid "Sample team: fictional names and credentials"
+msgstr ""
+
+#: front-page.php:92
+msgid "Find us"
+msgstr ""
+
+#: front-page.php:93
+msgid "In the city center, a short walk from the plaza"
+msgstr ""
+
+#: front-page.php:96
+msgid "Call or text"
+msgstr ""
+
+#: front-page.php:102
+msgid "Closed on regular holidays. Lunch break 12:00 NN – 1:00 PM on weekdays."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:68
+msgid "Open now"
+msgstr ""
+
+#: functions.php:69
+msgid "Closing soon"
+msgstr ""
+
+#: functions.php:70
+#: inc/template-tags.php:126
+msgid "Closed"
+msgstr ""
+
+#. translators: %s: time
+#: functions.php:72
+#, php-format
+msgid "Closes at %s"
+msgstr ""
+
+#. translators: %s: time
+#: functions.php:74
+#, php-format
+msgid "Opens at %s"
+msgstr ""
+
+#. translators: %s: time
+#: functions.php:76
+#, php-format
+msgid "Opens tomorrow at %s"
+msgstr ""
+
+#. translators: 1: weekday name, 2: time
+#: functions.php:78
+#, php-format
+msgid "Opens %1$s at %2$s"
+msgstr ""
+
+#: functions.php:79
+msgid "This field is required."
+msgstr ""
+
+#: functions.php:80
+#: inc/appointment-form.php:24
+msgid "Enter a PH mobile number, e.g. 0917 555 0142."
+msgstr ""
+
+#: functions.php:81
+msgid "Enter a valid email address."
+msgstr ""
+
+#: functions.php:82
+msgid "Choose a date from tomorrow onwards."
+msgstr ""
+
+#: functions.php:83
+msgid "The clinic is closed on Sundays. Please choose another day."
+msgstr ""
+
+#: functions.php:84
+#: inc/appointment-form.php:29
+msgid "Please agree to the privacy notice so we can contact you."
+msgstr ""
+
+#: functions.php:85
+msgid "Please fix the highlighted fields."
+msgstr ""
+
+#: header.php:18
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:22
+msgid "Main menu"
+msgstr ""
+
+#: header.php:37
+#: header.php:44
+msgid "Book a visit"
+msgstr ""
+
+#: header.php:40
+msgid "Switch light or dark mode"
+msgstr ""
+
+#: header.php:46
+msgid "Menu"
+msgstr ""
+
+#: inc/appointment-form.php:23
+msgid "Please enter your name."
+msgstr ""
+
+#: inc/appointment-form.php:25
+msgid "Enter a valid email address or leave it empty."
+msgstr ""
+
+#: inc/appointment-form.php:26
+msgid "Choose a service."
+msgstr ""
+
+#: inc/appointment-form.php:27
+msgid "Choose a date from tomorrow onwards when the clinic is open."
+msgstr ""
+
+#: inc/appointment-form.php:28
+msgid "Please write a short message."
+msgstr ""
+
+#: inc/appointment-form.php:30
+msgid "Your request could not be sent. Please call us instead."
+msgstr ""
+
+#: inc/appointment-form.php:31
+msgid "Please wait a minute before sending another request."
+msgstr ""
+
+#: inc/appointment-form.php:32
+msgid "The form expired. Please try again."
+msgstr ""
+
+#: inc/appointment-form.php:33
+msgid "We saved your request, but the email notice failed. We will still see it in the clinic."
+msgstr ""
+
+#: inc/appointment-form.php:95
+msgid "Message sent"
+msgstr ""
+
+#: inc/appointment-form.php:95
+msgid "Request received"
+msgstr ""
+
+#: inc/appointment-form.php:96
+msgid "Your reference number:"
+msgstr ""
+
+#: inc/appointment-form.php:98
+msgid "We will text or call you within clinic hours to confirm. Your slot is final only after we confirm it."
+msgstr ""
+
+#: inc/appointment-form.php:104
+msgid "Please check the form:"
+msgstr ""
+
+#: inc/appointment-form.php:128
+msgid "Leave this empty"
+msgstr ""
+
+#: inc/appointment-form.php:133
+msgid "Full name"
+msgstr ""
+
+#: inc/appointment-form.php:138
+msgid "Mobile number"
+msgstr ""
+
+#: inc/appointment-form.php:143
+msgid "Email (optional)"
+msgstr ""
+
+#: inc/appointment-form.php:149
+#: inc/appointment-form.php:321
+#: inc/post-types.php:23
+msgid "Service"
+msgstr ""
+
+#: inc/appointment-form.php:151
+msgid "Choose a service"
+msgstr ""
+
+#: inc/appointment-form.php:155
+#: inc/appointment-form.php:286
+msgid "Not sure / consultation"
+msgstr ""
+
+#: inc/appointment-form.php:160
+#: inc/appointment-form.php:322
+#: inc/post-types.php:195
+msgid "Preferred date"
+msgstr ""
+
+#: inc/appointment-form.php:162
+msgid "Closed on Sundays and holidays."
+msgstr ""
+
+#: inc/appointment-form.php:166
+msgid "Preferred time"
+msgstr ""
+
+#: inc/appointment-form.php:168
+msgid "Morning"
+msgstr ""
+
+#: inc/appointment-form.php:169
+msgid "Afternoon"
+msgstr ""
+
+#: inc/appointment-form.php:173
+msgid "Have you visited us before?"
+msgstr ""
+
+#: inc/appointment-form.php:175
+msgid "First visit"
+msgstr ""
+
+#: inc/appointment-form.php:176
+msgid "Returning patient"
+msgstr ""
+
+#: inc/appointment-form.php:181
+#: inc/appointment-form.php:315
+#: inc/appointment-form.php:325
+msgid "Message"
+msgstr ""
+
+#: inc/appointment-form.php:181
+msgid "Anything we should know? (optional)"
+msgstr ""
+
+#. translators: %s: privacy notice link
+#: inc/appointment-form.php:191
+#, php-format
+msgid "I agree that the clinic may use these details to contact me about this request, as explained in the %s."
+msgstr ""
+
+#: inc/appointment-form.php:192
+msgid "privacy notice"
+msgstr ""
+
+#: inc/appointment-form.php:201
+msgid "Send message"
+msgstr ""
+
+#: inc/appointment-form.php:201
+msgid "Request appointment"
+msgstr ""
+
+#: inc/appointment-form.php:314
+#: inc/post-types.php:194
+msgid "Reference"
+msgstr ""
+
+#: inc/appointment-form.php:315
+msgid "Type"
+msgstr ""
+
+#: inc/appointment-form.php:315
+#: inc/post-types.php:63
+msgid "Appointment request"
+msgstr ""
+
+#: inc/appointment-form.php:316
+msgid "Name"
+msgstr ""
+
+#: inc/appointment-form.php:317
+msgid "Mobile"
+msgstr ""
+
+#: inc/appointment-form.php:318
+#: page-templates/template-contact.php:20
+msgid "Email"
+msgstr ""
+
+#: inc/appointment-form.php:323
+msgid "Patient"
+msgstr ""
+
+#. translators: 1: reference, 2: name
+#: inc/appointment-form.php:333
+#, php-format
+msgid "%1$s – %2$s"
+msgstr ""
+
+#. translators: 1: site name, 2: reference
+#: inc/appointment-form.php:350
+#, php-format
+msgid "[%1$s] New request %2$s"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Clinic details"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Shown in the header, footer, contact page, sticky call button and the Dentist schema."
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Short tagline under the name"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Phone (shown as text and used for tap-to-call)"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Messenger link (m.me/yourpage)"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Public email"
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Send appointment requests to (leave empty to use the admin email)"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Street address"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "City, province and ZIP"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Map link (Google Maps share link)"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Mon–Fri hours, e.g. 09:00-12:00,13:00-17:00"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Saturday hours (empty = closed)"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Sunday hours (empty = closed)"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Facebook page URL"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/post-types.php:24
+msgid "Add new service"
+msgstr ""
+
+#: inc/post-types.php:25
+msgid "Edit service"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/post-types.php:42
+#: inc/post-types.php:46
+msgid "Team"
+msgstr ""
+
+#: inc/post-types.php:43
+msgid "Team member"
+msgstr ""
+
+#: inc/post-types.php:44
+msgid "Add team member"
+msgstr ""
+
+#: inc/post-types.php:45
+msgid "Edit team member"
+msgstr ""
+
+#: inc/post-types.php:62
+msgid "Appointment requests"
+msgstr ""
+
+#: inc/post-types.php:64
+msgid "Requests"
+msgstr ""
+
+#: inc/post-types.php:88
+msgid "Duration"
+msgstr ""
+
+#: inc/post-types.php:88
+msgid "e.g. 45 min"
+msgstr ""
+
+#: inc/post-types.php:89
+msgid "Starting price (₱, numbers only)"
+msgstr ""
+
+#: inc/post-types.php:89
+msgid "Leave empty to hide the price."
+msgstr ""
+
+#: inc/post-types.php:90
+msgid "Icon"
+msgstr ""
+
+#: inc/post-types.php:91
+msgid "Tooth finder groups"
+msgstr ""
+
+#: inc/post-types.php:91
+msgid "Comma list of: all, incisor, canine, premolar, molar, wisdom"
+msgstr ""
+
+#: inc/post-types.php:94
+msgid "Role"
+msgstr ""
+
+#: inc/post-types.php:94
+msgid "e.g. Lead Dentist"
+msgstr ""
+
+#: inc/post-types.php:95
+msgid "Credentials"
+msgstr ""
+
+#: inc/post-types.php:95
+msgid "e.g. Doctor of Dental Medicine"
+msgstr ""
+
+#: inc/post-types.php:96
+msgid "Initials for the avatar"
+msgstr ""
+
+#: inc/post-types.php:96
+msgid "Used when there is no featured image."
+msgstr ""
+
+#: inc/post-types.php:97
+msgid "Avatar colour"
+msgstr ""
+
+#: inc/post-types.php:107
+msgid "Details"
+msgstr ""
+
+#: inc/sample-content.php:18
+#: inc/template-tags.php:434
+msgid "Home"
+msgstr ""
+
+#: inc/sample-content.php:19
+msgid "About the Clinic"
+msgstr ""
+
+#: inc/sample-content.php:19
+msgid "A small family clinic where every visit is calm, clear and on time."
+msgstr ""
+
+#: inc/sample-content.php:20
+msgid "Services & Fees"
+msgstr ""
+
+#: inc/sample-content.php:20
+msgid "Treatments for the whole family, with typical durations and sample starting prices."
+msgstr ""
+
+#: inc/sample-content.php:21
+#: inc/sample-content.php:213
+#: inc/template-tags.php:261
+msgid "Our Dentists"
+msgstr ""
+
+#: inc/sample-content.php:21
+msgid "The people who will take care of you. Names and credentials shown are samples."
+msgstr ""
+
+#: inc/sample-content.php:22
+msgid "Request an Appointment"
+msgstr ""
+
+#: inc/sample-content.php:22
+msgid "Tell us what you need and when. We confirm every request by text or call."
+msgstr ""
+
+#: inc/sample-content.php:23
+msgid "Quick answers before your visit."
+msgstr ""
+
+#: inc/sample-content.php:24
+msgid "Contact & Directions"
+msgstr ""
+
+#: inc/sample-content.php:24
+msgid "Call, message or visit us. We reply within clinic hours."
+msgstr ""
+
+#. Template Name of the theme
+#: inc/sample-content.php:25
+msgid "Privacy Notice"
+msgstr ""
+
+#: inc/sample-content.php:25
+msgid "How we handle your personal information under RA 10173."
+msgstr ""
+
+#: inc/sample-content.php:26
+msgid "Please read this before relying on anything on this website."
+msgstr ""
+
+#: inc/sample-content.php:56
+msgid "Ngiti Dental is active."
+msgstr ""
+
+#: inc/sample-content.php:57
+msgid "Create the sample pages (with their templates), services, team members and menus? Everything is marked as sample and can be edited or deleted."
+msgstr ""
+
+#: inc/sample-content.php:58
+msgid "Create sample content"
+msgstr ""
+
+#: inc/sample-content.php:58
+msgid "No thanks"
+msgstr ""
+
+#: inc/sample-content.php:67
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: inc/sample-content.php:190
+msgid "Primary"
+msgstr ""
+
+#: inc/sample-content.php:191
+msgid "Footer"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/sample-content.php:213
+#: inc/template-tags.php:259
+msgid "About"
+msgstr ""
+
+#: inc/sample-content.php:213
+#: inc/template-tags.php:262
+msgid "FAQ"
+msgstr ""
+
+#: inc/seo.php:32
+msgid "Meet our family dental clinic: how we work, how we keep instruments clean and what to expect at your visit."
+msgstr ""
+
+#: inc/seo.php:33
+msgid "Check-ups, fillings, extractions, root canal, braces, whitening, crowns and kids' dentistry, with durations and starting prices."
+msgstr ""
+
+#: inc/seo.php:34
+msgid "Meet the dentists and staff who will take care of you and your family."
+msgstr ""
+
+#: inc/seo.php:35
+msgid "Request a dental appointment online. Choose a service and a preferred date, and we will confirm by text or call."
+msgstr ""
+
+#: inc/seo.php:36
+msgid "Answers to common patient questions: walk-ins, payments, HMO, first visits, dental anxiety and children."
+msgstr ""
+
+#: inc/seo.php:37
+msgid "Clinic address, hours, phone and Messenger. Send us a message or get directions."
+msgstr ""
+
+#: inc/seo.php:38
+msgid "How we collect and protect your personal information under the Data Privacy Act of 2012 (RA 10173)."
+msgstr ""
+
+#: inc/seo.php:39
+msgid "The information on this website is general education, not dental or medical advice."
+msgstr ""
+
+#. translators: %s: city
+#: inc/seo.php:48
+#, php-format
+msgid "Gentle family dentistry in %s: check-ups, fillings, braces and kids' care. Request an appointment online."
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "12:00 NN"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Monday – Friday"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Saturday"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Sunday & holidays"
+msgstr ""
+
+#. translators: %s: formatted peso amount
+#: inc/template-tags.php:372
+#, php-format
+msgid "from ₱%s"
+msgstr ""
+
+#: inc/template-tags.php:432
+msgid "Breadcrumb"
+msgstr ""
+
+#. translators: %s: search query
+#: index.php:11
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: index.php:12
+msgid "Clinic news & dental tips"
+msgstr ""
+
+#: index.php:32
+msgid "Nothing here yet."
+msgstr ""
+
+#: page-templates/template-about.php:17
+msgid "What to expect"
+msgstr ""
+
+#: page-templates/template-about.php:19
+msgid "A written estimate before treatment, in pesos."
+msgstr ""
+
+#: page-templates/template-about.php:20
+msgid "Instruments sterilized and logged after every patient."
+msgstr ""
+
+#: page-templates/template-about.php:21
+msgid "A reminder text the day before your visit."
+msgstr ""
+
+#: page-templates/template-about.php:22
+msgid "A stop signal you can use at any time during treatment."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Appointment Request"
+msgstr ""
+
+#: page-templates/template-appointment.php:20
+msgid "Before you send"
+msgstr ""
+
+#: page-templates/template-appointment.php:22
+msgid "We reply within clinic hours, usually the same day."
+msgstr ""
+
+#: page-templates/template-appointment.php:23
+msgid "Your slot is final only after we confirm it by text or call."
+msgstr ""
+
+#: page-templates/template-appointment.php:24
+msgid "For severe pain or swelling, call us now instead."
+msgstr ""
+
+#: page-templates/template-contact.php:17
+msgid "Address"
+msgstr ""
+
+#: page-templates/template-contact.php:18
+msgid "Phone"
+msgstr ""
+
+#: page-templates/template-contact.php:21
+msgid "Hours"
+msgstr ""
+
+#: page-templates/template-contact.php:26
+msgid "Send a message"
+msgstr ""
+
+#: page-templates/template-disclaimer.php:15
+msgid "Not medical or dental advice."
+msgstr ""
+
+#: page-templates/template-disclaimer.php:15
+msgid "Always consult a licensed dentist about your own situation."
+msgstr ""
+
+#: page-templates/template-faq.php:24
+msgid "Still have a question?"
+msgstr ""
+
+#: page-templates/template-faq.php:24
+msgid "Send us a message."
+msgstr ""
+
+#. translators: %s: date
+#: page-templates/template-privacy.php:18
+#, php-format
+msgid "Last updated: %s"
+msgstr ""
+
+#: page-templates/template-services.php:16
+msgid "Durations are typical. Starting prices are for simple cases; your exact plan and cost are confirmed after a check-up."
+msgstr ""
+
+#: page-templates/template-services.php:33
+msgid "Not sure what you need?"
+msgstr ""
+
+#: page-templates/template-services.php:34
+msgid "Use the tooth chart dentists use (FDI numbering) to point at the tooth."
+msgstr ""
+
+#: page-templates/template-team.php:15
+msgid "Sample team: names, photos and credentials are fictional placeholders."
+msgstr ""
+
+#: template-parts/cta-band.php:13
+msgid "Ready for your check-up?"
+msgstr ""
+
+#: template-parts/cta-band.php:14
+msgid "Send a request in two minutes. We confirm by text or call within clinic hours."
+msgstr ""
+
+#: template-parts/tooth-finder.php:25
+msgid "Tooth finder"
+msgstr ""
+
+#: template-parts/tooth-finder.php:25
+msgid "FDI chart"
+msgstr ""
+
+#: template-parts/tooth-finder.php:26
+msgid "Which tooth is bothering you? Tap it on the chart. You are looking at the patient, so their right side is on your left."
+msgstr ""
+
+#: template-parts/tooth-finder.php:28
+msgid "Right"
+msgstr ""
+
+#: template-parts/tooth-finder.php:28
+#: template-parts/tooth-finder.php:29
+msgid "Upper teeth"
+msgstr ""
+
+#: template-parts/tooth-finder.php:28
+#: template-parts/tooth-finder.php:29
+msgid "Lower teeth"
+msgstr ""
+
+#: template-parts/tooth-finder.php:28
+msgid "Left"
+msgstr ""
+
+#: template-parts/tooth-finder.php:37
+msgid "Pick a tooth"
+msgstr ""
+
+#: template-parts/tooth-finder.php:38
+msgid "We will show the tooth's name and the services that usually apply. Only a check-up can tell for sure."
+msgstr ""
+
+#: template-parts/visit-steps.php:11
+msgid "Send a request"
+msgstr ""
+
+#: template-parts/visit-steps.php:12
+msgid "Pick a service and a preferred day online, or call or message us."
+msgstr ""
+
+#: template-parts/visit-steps.php:15
+msgid "We confirm your slot"
+msgstr ""
+
+#: template-parts/visit-steps.php:16
+msgid "Our front desk texts or calls you with an exact time, usually the same day."
+msgstr ""
+
+#: template-parts/visit-steps.php:19
+msgid "Your visit, explained"
+msgstr ""
+
+#: template-parts/visit-steps.php:20
+msgid "You see your tooth chart, the options and the cost before any treatment starts."
+msgstr ""
